@@ -1,0 +1,44 @@
+{
+  "photos": [
+    {
+      "url": "/photos/1.jpg",
+      "id": 1,
+      "alt": ""
+    },
+    {
+      "url": "/photos/2.jpg",
+      "id": 2,
+      "alt": ""
+    },
+    {
+      "url": "/photos/3.jpg",
+      "id": 3,
+      "alt": ""
+    },
+    {
+      "url": "/photos/6.jpg",
+      "id": 4,
+      "alt": ""
+    },
+    {
+      "url": "/photos/7.jpg",
+      "id": 5,
+      "alt": ""
+    },
+    {
+      "url": "/photos/8.jpg",
+      "id": 6,
+      "alt": ""
+    },
+    {
+      "url": "/photos/6.jpg",
+      "id": 7,
+      "alt": ""
+    },
+    {
+      "url": "/photos/6.jpg",
+      "id": 8,
+      "alt": ""
+    }
+  ]
+}
